@@ -6,7 +6,7 @@ body {
   margin: 0;
   height: 100%;
   width: 100%;
-  font-family:  'Times New Roman', Times, serif;
+  font-family:  Math;
   background: rgb(240, 245, 245);
 }
 
@@ -29,7 +29,7 @@ a:focus {
   min-height: 100vh;
   margin-left: -17em;
   /* background: rgb(0, 22, 46); */
-  background: linear-gradient(to right, #000000, #030534b7);
+  background:  #bbced8;
   z-index: 999;
   transition: margin 0.25s ease-out;
 }
@@ -108,7 +108,7 @@ a:focus {
 #profile-img {
   width: 8em;
   height: 9.5em;
-  border: 5px solid rgb(56, 56, 56);
+  border: 5px solid rgb(187, 187 ,187);
   margin-bottom: 0.5em;
 }
 
