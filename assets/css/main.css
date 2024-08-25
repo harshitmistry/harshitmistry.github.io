@@ -106,9 +106,9 @@ a:focus {
 }
 
 #profile-img {
-  width: 8em;
-  height: 9.5em;
-  border: 5px solid rgb(187, 187 ,187);
+  width: 8.5em;
+  height: 11.5em;
+  border: 5px solid rgb(128 132 146);
   margin-bottom: 0.5em;
 }
 
@@ -206,7 +206,7 @@ a:focus {
   font-size: 1em;
   font-weight: 400;
   color: rgb(74, 67, 67);
-  /* text-align: justify; */
+  text-align: justify;
 }
 
 .section #section-content2 {
